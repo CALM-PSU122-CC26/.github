@@ -7,7 +7,7 @@ Repository ini merupakan proyek Capstone Project Coding Camp 2026. CALM (Care An
 
 ## Tim Kami
 
-| Nama | ID Peserta | Peran |
+| Nama | ID Peserta | Learning Path |
 |------|------------|--------|
 | Alfito Dwi Aditya | CFCC726D6Y0160 | Full-Stack Web Developer |
 | Sherly Anggita Susanto | CFCC726D6X0235 | Full-Stack Web Developer |
