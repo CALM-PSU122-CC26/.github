@@ -27,7 +27,7 @@ Berikut adalah panduan langkah untuk menggunakan fitur fitur utama pada CALM :
 * Isi data diri secara lengkap mulai dari **Email**, **Nama Lengkap**, **Username**, **No Handphone**, dan **Password**.
 * Klik tombol **Sign up** untuk memproses pembuatan akun baru Anda.
 
-### 2. Login ke Aplikasi
+### 2. Login ke Website CALM
 * Setelah berhasil melakukan registrasi, Anda akan diarahkan ke halaman **Login / Sign In**.
 * Masukkan **Email/Username** dan **Password** yang telah didaftarkan sebelumnya.
 * Anda juga dapat menggunakan opsi **Sign in with Google** untuk akses yang lebih cepat.
@@ -35,7 +35,7 @@ Berikut adalah panduan langkah untuk menggunakan fitur fitur utama pada CALM :
 
 ### 3. Eksplorasi Dashboard (Catatan Penting Pengguna Baru)
 * Setelah login, Anda akan masuk ke halaman **Dashboard User**.
-* ⚠️ **PENTING UNTUK PENGGUNA BARU:** Jika Anda baru pertama kali menggunakan aplikasi CALM, Anda **diwajibkan untuk mengisi MoodJar terlebih dahulu** sebelum dapat mengakses menu atau fitur lainnya di aplikasi. Fitur lain akan terkunci (*locked*) hingga Anda menyelesaikan jurnal perasaan hari ini.
+* ⚠️ **PENTING UNTUK PENGGUNA BARU:** Jika Anda baru pertama kali menggunakan CALM, Anda **diwajibkan untuk mengisi MoodJar terlebih dahulu** sebelum dapat mengakses menu atau fitur lainnya di aplikasi. Fitur lain akan terkunci (*locked*) hingga Anda menyelesaikan jurnal perasaan hari ini.
 * Setelah menyelesaikan pengisian *mood* pertama Anda, seluruh menu pada sidebar akan terbuka penuh, dan Dashboard akan menampilkan ringkasan cepat status *social battery*, saran pemulihan, serta pesan dukungan harian secara real-time.
 
 ### 4. Mengisi Mood Journal (MoodJar)
