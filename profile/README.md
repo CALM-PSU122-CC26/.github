@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/7241777a-c043-4375-87b9-28084a420142" alt="calm" width="30%" />
 
-# CALM : Care And Life Mode 🌿
+# CALM : Care And Life Mode ☁️
 
 > Get started to improve your mental wellbeing with AI-powered assistance
 
