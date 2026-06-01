@@ -4,7 +4,7 @@
 
 > Get started to improve your mental wellbeing with AI-powered assistance
 
-Repository ini merupakan proyek Capstone Project Coding Camp 2026. CALM (Care And Life Mode) adalah platform kesehatan mental dan kesejahteraan yang dirancang untuk membantu pengguna memahami kondisi dan mengukur tingkat social battery berdasarkan kegiatan pengguna pada google calendar.
+Repository ini merupakan proyek Capstone Project Coding Camp 2026. CALM (Care And Life Mode) adalah platform kesehatan mental yang dirancang untuk membantu pengguna memahami kondisi dan mengukur tingkat social battery berdasarkan kegiatan pengguna pada google calendar.
 
 ## Tim Kami
 
@@ -63,7 +63,7 @@ Berikut adalah panduan langkah untuk menggunakan fitur fitur utama pada CALM :
 * Periksa bagian **Ringkasan Kalkulasi** di bagian bawah untuk melihat detail perhitungan matematis sistem, termasuk indikasi total acara, total durasi aktivitas (dalam menit), serta skor intensitas sosial Anda.
 
 ## Setup
-Clone repository di perangkat komputer. Buka project di Visual Studio Code dan jalankan.
+Clone repository di perangkat komputer. Buka proyek di Visual Studio Code dan jalankan.
 
 ## 📸 Screenshots
 <p align="center">
