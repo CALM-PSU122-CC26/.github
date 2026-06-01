@@ -1,3 +1,4 @@
+<img src="https://github.com/user-attachments/assets/eace5767-8b3d-423f-8ff5-81946d21203f" width="516" height="484" alt="calm"  />
 
 # CALM : Care And Life Mode 🌿
 
@@ -65,10 +66,17 @@ Berikut adalah panduan langkah untuk menggunakan fitur fitur utama pada CALM :
 Clone repository di perangkat komputer. Buka project di Visual Studio Code dan jalankan.
 
 ## 📸 Screenshots
-## 📸 Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/af7c3242-648c-43ca-9c79-dcaf4f4b5872" alt="image" width="48%" />
   <img src="https://github.com/user-attachments/assets/3423e700-0f02-407b-80ba-67d65e6bc55a" alt="image" width="48%" />
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f51c435d-7075-46e2-8943-b49f3f1c724f" alt="image" width="48%"   />
+<img src="https://github.com/user-attachments/assets/623a6981-bdad-4259-b1a4-d6ab3f82229c" alt="image" width="48%" />
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/070841cd-3af1-4d91-ae92-19a1f7187ea1" alt="image"  width="48%" />
+<img src="https://github.com/user-attachments/assets/2fe29bcd-ebc7-4dc0-99c5-03dba23659ef" alt="image" width="48%" />
 </p>
 
 
