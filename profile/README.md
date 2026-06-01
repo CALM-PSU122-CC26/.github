@@ -65,7 +65,10 @@ Berikut adalah panduan langkah untuk menggunakan fitur fitur utama pada CALM :
 Clone repository di perangkat komputer. Buka project di Visual Studio Code dan jalankan.
 
 ## 📸 Screenshots
-<img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/af7c3242-648c-43ca-9c79-dcaf4f4b5872" />
-<img width="1919" height="978" alt="image" src="https://github.com/user-attachments/assets/3423e700-0f02-407b-80ba-67d65e6bc55a" />
+## 📸 Screenshots
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/af7c3242-648c-43ca-9c79-dcaf4f4b5872" alt="image" width="48%" />
+  <img src="https://github.com/user-attachments/assets/3423e700-0f02-407b-80ba-67d65e6bc55a" alt="image" width="48%" />
+</p>
 
 
