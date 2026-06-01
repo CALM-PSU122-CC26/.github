@@ -22,6 +22,41 @@ Berikut adalah panduan langkah untuk menggunakan fitur fitur utama pada CALM :
 
 ### 1. Registrasi Akun Baru
 * Buka website CALM melalui link https://mycalmspace.online
-* Klik tombol **Register / Sign Up** pada halaman yang tersedia (seperti pada tampilan `image_304279.png`).
+* Klik tombol **Register / Sign Up** pada halaman yang tersedia.
 * Isi data diri secara lengkap mulai dari **Email**, **Nama Lengkap**, **Username**, **No Handphone**, dan **Password**.
 * Klik tombol **Sign up** untuk memproses pembuatan akun baru Anda.
+
+### 2. Login ke Aplikasi
+* Setelah berhasil melakukan registrasi, Anda akan diarahkan ke halaman **Login / Sign In**.
+* Masukkan **Email/Username** dan **Password** yang telah didaftarkan sebelumnya.
+* Anda juga dapat menggunakan opsi **Sign in with Google** untuk akses yang lebih cepat.
+* Klik tombol **Sign in** untuk masuk ke dalam aplikasi.
+
+### 3. Eksplorasi Dashboard (Catatan Penting Pengguna Baru)
+* Setelah login, Anda akan masuk ke halaman **Dashboard User**.
+* ⚠️ **PENTING UNTUK PENGGUNA BARU:** Jika Anda baru pertama kali menggunakan aplikasi CALM, Anda **diwajibkan untuk mengisi MoodJar terlebih dahulu** sebelum dapat mengakses menu atau fitur lainnya di aplikasi. Fitur lain akan terkunci (*locked*) hingga Anda menyelesaikan jurnal perasaan hari ini.
+* Setelah menyelesaikan pengisian *mood* pertama Anda, seluruh menu pada sidebar akan terbuka penuh, dan Dashboard akan menampilkan ringkasan cepat status *social battery*, saran pemulihan, serta pesan dukungan harian secara real-time.
+
+### 4. Mengisi Mood Journal (MoodJar)
+* Untuk pengguna baru, Anda akan diarahkan langsung ke fitur ini, atau Anda bisa mengaksesnya di menu **Mood Jar** pada sidebar.
+* Pada panel kanan, pilih kondisi emosi Anda saat ini di bagian **"Bagaimana Mood mu?"** (Buruk / Biasa Saja / Baik).
+* Tuliskan cerita mengenai perasaan Anda hari itu pada kolom **"Ceritakan Perasaanmu"**.
+* Klik tombol **Simpan Mood Hari Ini**.
+* Setelah tersimpan, sistem akan memproses cerita Anda menggunakan AI Mood Analysis dan menampilkan pesan dukungan (*Support Message*) di dalam pop-up interaktif.
+* > 💡 **Aturan Fitur:** Fitur MoodJar dirancang sebagai jurnal harian otentik, sehingga pengguna **hanya dapat mengisi data satu kali saja dalam sehari**.
+
+### 5. Fitur Calendar Event
+* Pilih menu **Calendar Event** pada bilah navigasi (sidebar) di sebelah kiri.
+* Klik tombol **Connect** untuk menghubungkan aplikasi dengan kalender eksternal Anda.
+* Pilih akun (seperti Google Account) yang ingin ditautkan untuk integrasi data agenda.
+* Klik tombol **Sinkron** untuk mulai menarik data aktivitas Anda.
+* Setelah proses berhasil, bagian **Upcoming Event / Agenda Mendatang** akan otomatis menampilkan daftar agenda atau aktivitas mendatang secara rapi dan terjadwal.
+
+### 6. Fitur Social Battery
+* Buka menu **Social Battery** melalui sidebar.
+* Klik tombol **Synchronize Calendar** di pojok kanan atas untuk memperbarui data energi sosial berdasarkan aktivitas terbaru Anda.
+* Klik tombol **Pesan Hari Ini** pada bagian Ruang Refleksi untuk melakukan *generate* otomatis pada kolom:
+  * **Kabar Energimu Hari Ini**
+  * **Catatan Skor**
+  * **Saran Pemulihan**
+* Periksa bagian **Ringkasan Kalkulasi** di bagian bawah untuk melihat detail perhitungan matematis sistem, termasuk indikasi total acara, total durasi aktivitas (dalam menit), serta skor intensitas sosial Anda.
