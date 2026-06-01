@@ -60,3 +60,6 @@ Berikut adalah panduan langkah untuk menggunakan fitur fitur utama pada CALM :
   * **Catatan Skor**
   * **Saran Pemulihan**
 * Periksa bagian **Ringkasan Kalkulasi** di bagian bawah untuk melihat detail perhitungan matematis sistem, termasuk indikasi total acara, total durasi aktivitas (dalam menit), serta skor intensitas sosial Anda.
+
+## Setup
+Clone repository di perangkat komputer. Buka project di Visual Studio Code dan jalankan.
