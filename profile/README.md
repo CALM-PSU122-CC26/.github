@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/eace5767-8b3d-423f-8ff5-81946d21203f" width="516" height="484" alt="calm"  />
+<img src="https://github.com/user-attachments/assets/7241777a-c043-4375-87b9-28084a420142" alt="calm" width="20%" />
 
 # CALM : Care And Life Mode 🌿
 
