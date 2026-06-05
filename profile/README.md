@@ -80,8 +80,8 @@ Clone repository di perangkat komputer. Buka proyek di Visual Studio Code dan ja
 </p>
 
 ### Fitur Lainnya
-Setting
-Light Mode and Dark Mode
-Profile
-History Mood jar dan social battery
+*Setting
+*Light Mode and Dark Mode🌗
+*Profile
+*History Mood jar dan social battery
 
