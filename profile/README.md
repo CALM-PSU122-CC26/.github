@@ -79,4 +79,9 @@ Clone repository di perangkat komputer. Buka proyek di Visual Studio Code dan ja
 <img src="https://github.com/user-attachments/assets/2fe29bcd-ebc7-4dc0-99c5-03dba23659ef" alt="image" width="48%" />
 </p>
 
+### Fitur Lainnya
+Setting
+Light Mode and Dark Mode
+Profile
+History Mood jar dan social battery
 
